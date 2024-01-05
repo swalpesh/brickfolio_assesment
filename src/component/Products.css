@@ -1,0 +1,62 @@
+.prodhigh{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+
+
+.imgs{
+    width: -webkit-fill-available;
+    height: 10rem;
+    border-radius: 20px;
+}
+
+.card{
+    width: 17rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 20px;
+    border: none;
+    background: #f8f8f8;
+    /* box-shadow: -17px -10px 24px 2px #f8f8f8; */
+}
+h5{
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: medium;
+}
+.card-text{
+    font-size: smaller;
+}
+small{
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.rat{
+    font-size: small;
+    font-weight: 700;
+}
+.blat{
+    display: flex;
+    position: relative;
+}
+.price{
+    position: absolute;
+    right: 5px;
+    top: -3px;
+    font-size: small;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.highlights{
+    width: 2rem;
+    height: 2rem;
+    padding: 3px;
+    border-radius: 50%;
+}
+
+
+

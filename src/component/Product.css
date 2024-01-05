@@ -1,0 +1,21 @@
+.thumb{
+    display: flex;
+}
+.imgs{
+    width: 7rem;
+    height: 7rem;
+    padding: 10px;
+    object-fit: fill;
+}
+.title{
+    text-transform: uppercase;
+}
+
+.dis{
+    font-size: small;
+    margin-left: 11px;
+}
+.data{
+    font-size: medium;
+    letter-spacing: 0.5px;
+}
